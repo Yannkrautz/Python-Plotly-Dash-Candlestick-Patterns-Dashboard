@@ -1,0 +1,1 @@
+# Python-Plotly-Dash-Candlestick-Patterns-Dashboard
