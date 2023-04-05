@@ -3,7 +3,7 @@
 This repository contains a dashboard created with Python and Plotly Dash for candlestick pattern strategies.
 
 # Features
-Identify candlestick patterns in multiple countries<br>
+Identify candlestick patterns<br>
 Backtest candlestick patterns for accuracy and performance<br>
 Verify the effectiveness of candlestick patterns for market predictions
 
