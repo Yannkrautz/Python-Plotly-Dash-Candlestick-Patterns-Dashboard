@@ -1,6 +1,6 @@
 # Candlestick Pattern Strategies Dashboard
 
-This repository contains a dashboard created with Python and Plotly Dash for candlestick pattern strategies using Talib and vectorbt libraries. The dashboard provides the ability to find candlestick strategy patterns in many countries, backtest, and verify the performance and accuracy of candlestick to predict the market.
+This repository contains a dashboard created with Python and Plotly Dash for candlestick pattern strategies.
 
 # Features
 Identify candlestick patterns in multiple countries<br>
