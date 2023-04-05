@@ -1,0 +1,26 @@
+.Select-control {
+    background-color: #151519 !important; 
+    color:white;
+    border: none; 
+  }
+  
+.Select-menu-outer {
+    background-color: #151519; 
+    color: white;
+    border: none; 
+}
+
+.Select-value-label {
+    color: white !important;
+    border: none; 
+}
+
+
+.VirtualizedSelectOption {
+    background-color: white;
+    color: black;
+}
+
+.VirtualizedSelectFocusedOption {
+    background-color: #1B62A5;
+}
