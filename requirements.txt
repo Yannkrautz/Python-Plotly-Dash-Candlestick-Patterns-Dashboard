@@ -1,7 +1,6 @@
-
 dash
 dash_core_components
-idash_html_components
+dash_html_components
 dash
 stockstats
 dash_bootstrap_components
