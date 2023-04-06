@@ -1,4 +1,4 @@
-pip==23.0.1
+./ta-lib
 dash
 dash_core_components
 dash_html_components
@@ -11,7 +11,6 @@ datetime
 numpy
 pandas
 statistics
-TA-Lib==0.4.25
 vectorbt
 gunicorn
 openpyxl
