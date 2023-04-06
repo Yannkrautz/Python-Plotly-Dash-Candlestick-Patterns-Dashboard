@@ -1,4 +1,4 @@
-ta-lib/c/lib
+./ta-lib 2
 dash
 dash_core_components
 dash_html_components
