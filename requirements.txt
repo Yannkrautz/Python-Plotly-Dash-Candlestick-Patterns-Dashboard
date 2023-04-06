@@ -1,3 +1,4 @@
+pip==23.0.1
 dash
 dash_core_components
 dash_html_components
