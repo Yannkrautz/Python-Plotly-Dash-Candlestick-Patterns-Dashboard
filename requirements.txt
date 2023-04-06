@@ -10,7 +10,7 @@ datetime
 numpy
 pandas
 statistics
-TA-Lib-binary
+TA-Lib==0.4.25
 vectorbt
 gunicorn
 openpyxl
