@@ -1,4 +1,4 @@
-./ta-lib 2/swig
+./ta-lib 2/c
 dash
 dash_core_components
 dash_html_components
