@@ -1,4 +1,4 @@
-./ta-lib 2/dotnet
+./TA_Lib-0.4.24-cp37-cp37m-win_amd64.whl
 dash
 dash_core_components
 dash_html_components
